@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, Welcome to my GitHub account!!!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +13,4 @@
 **Segnaly-2021/Segnaly-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 -->
