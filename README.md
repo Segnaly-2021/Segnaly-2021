@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on object detection project 
 - 🌱 I’m currently learning Google Cloud plateform
-- 🤔 I’m looking for a full-time as MLOps engineer
+- 🤔 I’m looking for a full-time role as MLOps engineer
 - 📫 How to reach me: segnaly10@gmail.com
 
 <!--
