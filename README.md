@@ -1,8 +1,8 @@
 ### 👋 Hi there, Welcome to my GitHub account!!!
 
-- 👋 My name is Aly Segnane, I'm a junior MLOps engineer
+- 👋 My name is Aly Segnane, I'm a junior Web developer, specialized in React and C# & ML engineer.
 - 🎓 I’m certified as a Google Cloud Professional Machine learning Engineer
-- 🤔 I’m looking for a full-time role as MLOps engineer
+- 🤔 I’m looking for a full-time role as a Web dev or ML engineer.
 - 📫 How to reach me: segnaly10@gmail.com
 
 <!--
