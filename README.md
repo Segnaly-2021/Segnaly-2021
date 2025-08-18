@@ -1,4 +1,4 @@
-### 👋 Hi there, Welcome to my GitHub account!!!
+### 👋 Hi there, Welcome to my GitHub account!
 
 - 👋 My name is Aly Segnane, I'm a junior Web developer, specialized in React and C# & ML engineer.
 - 🎓 I’m certified as a Google Cloud Professional Machine learning Engineer
