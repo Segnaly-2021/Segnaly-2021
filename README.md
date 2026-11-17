@@ -35,7 +35,7 @@ The code is private. I'm happy to walk you through the architecture on a call.
 
 | Area | Tools |
 |---|---|
-| Agentic AI | LangGraph · LangChain · MCP · LLMs · RAG |
+| Agentic AI | LangGraph · LangChain · MCP · LLMs · RAG · LangSmith · OpenTelemetry |
 | ML | PyTorch · TensorFlow · scikit-learn · Hugging Face |
 | Backend & data | Python · FastAPI · PostgreSQL · SQL · Pandas · Playwright |
 | DevOps & cloud | GCP · Docker · Kubernetes · GitHub Actions · Linux |
